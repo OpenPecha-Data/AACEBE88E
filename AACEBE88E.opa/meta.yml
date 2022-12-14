@@ -1,0 +1,22 @@
+id: AACEBE88E
+title: Toh_95-The_Play_in_Full-v1
+type: translation
+pechas:
+- I2F3FF047
+- I4214FD1E
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:28:17.884Z'
+  creationid: celso
+  eft-text-id: UT22084-046-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_95-The_Play_in_Full-v1
+alignment_to_base:
+  I2F3FF047/EDEB: A5F5
+  I4214FD1E/51AE: A5F5
